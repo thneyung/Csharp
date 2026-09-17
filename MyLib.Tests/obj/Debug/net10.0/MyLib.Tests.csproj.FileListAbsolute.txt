@@ -1,0 +1,7 @@
+D:\LEARN\A-HOCKY1NAM3\NNLTCsharp\Csharp\NNLTCSharpC5\MyLib.Tests\bin\Debug\net10.0\.msCoverageSourceRootsMapping_MyLib.Tests
+D:\LEARN\A-HOCKY1NAM3\NNLTCsharp\Csharp\NNLTCSharpC5\MyLib.Tests\bin\Debug\net10.0\CoverletSourceRootsMapping_MyLib.Tests
+D:\LEARN\A-HOCKY1NAM3\NNLTCsharp\Csharp\NNLTCSharpC5\MyLib.Tests\obj\Debug\net10.0\MyLib.Tests.csproj.AssemblyReference.cache
+D:\LEARN\A-HOCKY1NAM3\NNLTCsharp\Csharp\NNLTCSharpC5\MyLib.Tests\obj\Debug\net10.0\MyLib.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\A-HOCKY1NAM3\NNLTCsharp\Csharp\NNLTCSharpC5\MyLib.Tests\obj\Debug\net10.0\MyLib.Tests.AssemblyInfoInputs.cache
+D:\LEARN\A-HOCKY1NAM3\NNLTCsharp\Csharp\NNLTCSharpC5\MyLib.Tests\obj\Debug\net10.0\MyLib.Tests.AssemblyInfo.cs
+D:\LEARN\A-HOCKY1NAM3\NNLTCsharp\Csharp\NNLTCSharpC5\MyLib.Tests\obj\Debug\net10.0\MyLib.Tests.csproj.CoreCompileInputs.cache
