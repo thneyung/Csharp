@@ -3,12 +3,12 @@ using System.Text;
 
 namespace Lab01;
 
-class Lab1
+public class Lab1
 {
     static void Main(string[] args)
     {
         // Bạn muốn chấm/chạy thử bài nào thì mở comment dòng đó
-        //Bai1.Run();
+        Bai1.Run();
         Bai2.Run();
         Bai3.Run();
         Bai4.Run();
