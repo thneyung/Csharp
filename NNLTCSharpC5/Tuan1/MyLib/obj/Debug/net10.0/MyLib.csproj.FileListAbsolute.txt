@@ -1,0 +1,11 @@
+D:\LEARN\A-HOCKY1NAM3\NNLTCsharp\Csharp\NNLTCSharpC5\MyLib\bin\Debug\net10.0\MyLib.deps.json
+D:\LEARN\A-HOCKY1NAM3\NNLTCsharp\Csharp\NNLTCSharpC5\MyLib\bin\Debug\net10.0\MyLib.dll
+D:\LEARN\A-HOCKY1NAM3\NNLTCsharp\Csharp\NNLTCSharpC5\MyLib\bin\Debug\net10.0\MyLib.pdb
+D:\LEARN\A-HOCKY1NAM3\NNLTCsharp\Csharp\NNLTCSharpC5\MyLib\obj\Debug\net10.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\A-HOCKY1NAM3\NNLTCsharp\Csharp\NNLTCSharpC5\MyLib\obj\Debug\net10.0\MyLib.AssemblyInfoInputs.cache
+D:\LEARN\A-HOCKY1NAM3\NNLTCsharp\Csharp\NNLTCSharpC5\MyLib\obj\Debug\net10.0\MyLib.AssemblyInfo.cs
+D:\LEARN\A-HOCKY1NAM3\NNLTCsharp\Csharp\NNLTCSharpC5\MyLib\obj\Debug\net10.0\MyLib.csproj.CoreCompileInputs.cache
+D:\LEARN\A-HOCKY1NAM3\NNLTCsharp\Csharp\NNLTCSharpC5\MyLib\obj\Debug\net10.0\MyLib.dll
+D:\LEARN\A-HOCKY1NAM3\NNLTCsharp\Csharp\NNLTCSharpC5\MyLib\obj\Debug\net10.0\refint\MyLib.dll
+D:\LEARN\A-HOCKY1NAM3\NNLTCsharp\Csharp\NNLTCSharpC5\MyLib\obj\Debug\net10.0\MyLib.pdb
+D:\LEARN\A-HOCKY1NAM3\NNLTCsharp\Csharp\NNLTCSharpC5\MyLib\obj\Debug\net10.0\ref\MyLib.dll
