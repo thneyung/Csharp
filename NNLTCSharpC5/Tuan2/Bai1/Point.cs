@@ -1,4 +1,4 @@
-﻿namespace Bai1._2;
+﻿namespace Bai1;
 
 public class Point
 
